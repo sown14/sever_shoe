@@ -11,4 +11,3 @@ dist/
 # vscode 
 .idea
 yarn.locksrc/firebase-key.json
-src/firebase-key.json
